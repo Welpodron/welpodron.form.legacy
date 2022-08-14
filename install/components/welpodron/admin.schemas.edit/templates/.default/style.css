@@ -1,0 +1,16 @@
+.welpodron_form_schemas_edit_grid {
+  display: grid;
+  gap: 20px;
+}
+
+.welpodron_form_schemas_edit_p-4 {
+  padding: 15px;
+}
+
+.welpodron_form_schemas_edit_rounded {
+  border-radius: 10px;
+}
+
+.welpodron_form_schemas_edit_shadow {
+  box-shadow: 0 .125rem .25rem rgba(0,0,0,.075);
+}
